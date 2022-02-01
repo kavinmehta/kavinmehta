@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kavinmehta
 - 👀 I’m interested in everything frontend
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently working on VueJS, VueX, Firebase, etc.
 - 💞️ I’m looking to collaborate on anything frontend
 
 <!---
